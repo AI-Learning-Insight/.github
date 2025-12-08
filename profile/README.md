@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../logo/AI Learning Insight A25-CS208" alt="EduInsight Logo" width="400" height="150">
+  <img src="../logo/EduInsight-logo.png" alt="EduInsight Logo" width="400" height="150">
 
   <h3><b>Sampah Rapih, Bumi Happy!</b></h3>
 </div>
