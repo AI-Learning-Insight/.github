@@ -58,6 +58,3 @@
 
 ### Final Presentation
 - Demo project [S♻️MPIS](https://youtu.be/PXtXPSoXyho)
-
-### Final Result
-<img width="786" height="775" alt="image" src="https://github.com/user-attachments/assets/36795bd6-0620-4bc3-8199-41fd4345f810" />
