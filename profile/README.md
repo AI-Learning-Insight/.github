@@ -44,38 +44,15 @@
 </div>
 
 ### 📚 Project Description
-**EduInsight** adalah platform edukasi berbasis website dan teknologi Machine Learning yang memungkinkan siswa dan guru untuk:
+**EduInsight** adalah platform edukasi berbasis website dan teknologi Machine Learning yang memungkinkan mentee dan mentor untuk:
 
-- **Menganalisis gaya belajar** siswa secara otomatis berdasarkan data aktivitas pembelajaran
-- **Menghasilkan Insight Pembelajaran Personal**, yang memberikan rekomendasi strategi belajar yang disesuaikan dengan kebutuhan individu
+- **Menganalisis gaya belajar** mentee secara otomatis berdasarkan data aktivitas pembelajaran.
+- **Menghasilkan Insight Pembelajaran Personal**, yang memberikan rekomendasi strategi belajar yang disesuaikan dengan kebutuhan individu.
 
-### 👨‍🎓 Key Features - Untuk Mentee
-### 📍 Learning Type Profile
-Identifikasi gaya belajar siswa berdasarkan analisis data:
-- **Fast Learner**: Cepat memahami, butuh tantangan ekstra
-- **Consistent Learner**: Stabil dan teratur dalam proses belajar  
-- **Reflective Learner**: Butuh waktu refleksi dan pengolahan mendalam
-
-### 📈 Learning Progress Tracker
-Pelacakan perkembangan belajar real-time:
-- **Completion rate** tiap materi
-- **Time investment** analytics
-- **Consistency score** harian/mingguan
-- **Achievement system** (streaks, badges, level progression)
-
-### 🧠 Learning Insights Dashboard
-Analisis pola belajar berdasarkan data aktivitas:
-- **Peak learning hours** identification
-- **Subject time distribution**
-- **Learning rhythm patterns**
-- **Performance insights** dan area improvement
-
-### ✅ **Learning To-Do List**
-Daftar tugas belajar yang dipersonalisasi:
-- **AI-generated study tasks** berdasarkan analisis kebutuhan
-- **Priority-based task list** (High/Medium/Low)
-- **Knowledge gap modules** untuk isi kesenjangan
-- **Calendar integration** dan deadline management
+Platform ini dirancang untuk membantu:
+- **Mentee** memahami pola belajar mereka dan meningkatkan efektivitas belajar.
+- **Mentor** mendapatkan pemahaman mendalam tentang karakteristik belajar mentee.
+- **Lembaga Pendidikan** mengoptimalkan metode pembelajaran berdasarkan data.
 
 ### 📝 How to Access Website 💡
 - **[EduInsight](https://capstone-ali-peach.vercel.app/)**
