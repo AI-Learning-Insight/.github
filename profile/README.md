@@ -4,8 +4,8 @@
   <h3><b>Sampah Rapih, Bumi Happy!</b></h3>
 </div>
 
-### 🧩 What's this ?
-**S♻️MPIS** adalah project capstone dari program Asah led by Dicoding 2025. Project ini dibangun oleh tim `A25-CS208` yang beranggotakan 3 member React & Back-End with AI dan 2 member Machine Learning. 
+### 🔍 What's this ?
+**EduInsight** adalah project capstone dari program Asah led by Dicoding 2025. Project ini dibangun oleh tim `A25-CS208` yang beranggotakan 3 member React & Back-End with AI dan 2 member Machine Learning. 
 
 <div align="center">
   <h3> 👥 Team Members 👥</h3>
@@ -43,13 +43,43 @@
   </table>
 </div>
 
-### 🗑️ Project Description
-**S♻️MPIS** adalah platform manajemen sampah berbasis website dan teknologi Machine Learning yang memungkinkan masyarakat untuk:
+### 📚 Project Description
+**EduInsight** adalah platform manajemen sampah berbasis website dan teknologi Machine Learning yang memungkinkan masyarakat untuk:
 - Menklasifikasikan jenis sampah rumah tangga secara otomatis.
 - Menghasilkan **Sampoint**, poin digital yang dapat ditukar dengan hadiah.
 
-### 🌎 How to Access Website 🌳
-- **[S♻️MPIS](https://sampis.netlify.app/)**
+## 👨‍🎓 **Key Features - Untuk Mentee/Siswa**
 
-### Final Presentation
-- Demo project [S♻️MPIS](https://youtu.be/PXtXPSoXyho)
+### 📍 **Learning Type Profile**
+Identifikasi gaya belajar siswa berdasarkan analisis data:
+- **Fast Learner**: Cepat memahami, butuh tantangan ekstra
+- **Consistent Learner**: Stabil dan teratur dalam proses belajar  
+- **Reflective Learner**: Butuh waktu refleksi dan pengolahan mendalam
+- **Personalized recommendations** berdasarkan tipe belajar
+
+### 📈 **Learning Progress Tracker**
+Pelacakan perkembangan belajar real-time:
+- **Completion rate** tiap materi
+- **Time investment** analytics
+- **Consistency score** harian/mingguan
+- **Achievement system** (streaks, badges, level progression)
+
+### 🧠 **Learning Insights Dashboard**
+Analisis pola belajar berdasarkan data aktivitas:
+- **Peak learning hours** identification
+- **Subject time distribution**
+- **Learning rhythm patterns**
+- **Performance insights** dan area improvement
+
+### ✅ **Learning To-Do List**
+Daftar tugas belajar yang dipersonalisasi:
+- **AI-generated study tasks** berdasarkan analisis kebutuhan
+- **Priority-based task list** (High/Medium/Low)
+- **Knowledge gap modules** untuk isi kesenjangan
+- **Calendar integration** dan deadline management
+
+### 📝 How to Access Website 💡
+- **[EduInsight](https://sampis.netlify.app/)**
+
+### 🎬 Final Presentation 🎥
+- Demo project [EduInsight](https://youtu.be/PXtXPSoXyho)
