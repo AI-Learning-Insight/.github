@@ -48,23 +48,21 @@
 - Menklasifikasikan jenis sampah rumah tangga secara otomatis.
 - Menghasilkan **Sampoint**, poin digital yang dapat ditukar dengan hadiah.
 
-## 👨‍🎓 **Key Features - Untuk Mentee/Siswa**
-
-### 📍 **Learning Type Profile**
+## 👨‍🎓 Key Features - Untuk Mentee
+### 📍 Learning Type Profile
 Identifikasi gaya belajar siswa berdasarkan analisis data:
 - **Fast Learner**: Cepat memahami, butuh tantangan ekstra
 - **Consistent Learner**: Stabil dan teratur dalam proses belajar  
 - **Reflective Learner**: Butuh waktu refleksi dan pengolahan mendalam
-- **Personalized recommendations** berdasarkan tipe belajar
 
-### 📈 **Learning Progress Tracker**
+### 📈 Learning Progress Tracker
 Pelacakan perkembangan belajar real-time:
 - **Completion rate** tiap materi
 - **Time investment** analytics
 - **Consistency score** harian/mingguan
 - **Achievement system** (streaks, badges, level progression)
 
-### 🧠 **Learning Insights Dashboard**
+### 🧠 Learning Insights Dashboard
 Analisis pola belajar berdasarkan data aktivitas:
 - **Peak learning hours** identification
 - **Subject time distribution**
