@@ -1,7 +1,7 @@
 <div align="center">
   <img src="../logo/EduInsight-logo.png" alt="EduInsight Logo" width="400" height="200">
 
-  <h3><b>Sampah Rapih, Bumi Happy!</b></h3>
+  <h3><b>Insight Cerdas, Belajar Optimal!</b></h3>
 </div>
 
 ## 🔍 What's this ?
@@ -80,5 +80,5 @@ Daftar tugas belajar yang dipersonalisasi:
 ### 📝 How to Access Website 💡
 - **[EduInsight](https://capstone-ali-peach.vercel.app/)**
 
-### 🎬 Final Presentation 🎥
+### Final Presentation 🎥
 - Demo project [EduInsight](https://youtu.be/PXtXPSoXyho)
