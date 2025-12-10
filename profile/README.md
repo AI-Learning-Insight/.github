@@ -43,7 +43,7 @@
   </table>
 </div>
 
-### 📚 Project Description
+## 📚 Project Description
 **EduInsight** adalah platform edukasi berbasis website dan teknologi Machine Learning yang memungkinkan mentee dan mentor untuk:
 
 - **Menganalisis gaya belajar** mentee secara otomatis berdasarkan data aktivitas pembelajaran.
@@ -54,8 +54,8 @@ Platform ini dirancang untuk membantu:
 - **Mentor** mendapatkan pemahaman mendalam tentang karakteristik belajar mentee.
 - **Lembaga Pendidikan** mengoptimalkan metode pembelajaran berdasarkan data.
 
-### 📝 How to Access Website 💡
+## 💡 How to Access Website
 - **[EduInsight](https://capstone-ali-peach.vercel.app/)**
 
-### Final Presentation 🎥
+## 🎥 Final Presentation
 - Demo project [EduInsight](https://youtu.be/PXtXPSoXyho)
