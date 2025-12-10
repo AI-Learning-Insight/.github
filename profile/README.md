@@ -5,7 +5,7 @@
 </div>
 
 ### 🧩 What's this ?
-**S♻️MPIS** adalah project capstone dari program Coding Camp 2025. Project ini dibangun oleh tim `CC25-CF090` yang beranggotakan 3 member Machine Learning dan 3 member FEBE. 
+**S♻️MPIS** adalah project capstone dari program Asah led by Dicoding 2025. Project ini dibangun oleh tim `A25-CS208` yang beranggotakan 3 member React & Back-End with AI dan 2 member Machine Learning. 
 
 <div align="center">
   <h3> 👥 Team Members 👥</h3>
@@ -16,34 +16,29 @@
       <th>Name</th>
     </tr>
     <tr>
-      <td>Machine Learning</td>
-      <td>MC009D5X0413</td>
+      <td>React & Back-End with AI</td>
+      <td>R891D5X1425 </td>
       <td>Nabila Alawiyah</td>
     </tr>
     <tr>
-      <td>Machine Learning</td>
-      <td>MC009D5Y0435</td>
-      <td>Adam Firmansyah</td>
+      <td>React & Back-End with AI</td>
+      <td>R891D5X0467</td>
+      <td>Dewi Safira Permata Sari</td>
+    </tr>
+    <tr>
+      <td>React & Back-End with AI</td>
+      <td>R891D5Y0859</td>
+      <td>Irfan Apriansyah</td>
     </tr>
     <tr>
       <td>Machine Learning</td>
-      <td>MC009D5Y0823</td>
+      <td>M891D5X0171</td>
+      <td>Alta Regina Aliyarahmah</td>
+    </tr>
+    <tr>
+      <td>Machine Learning</td>
+      <td>M891D5Y0640</td>
       <td>Ferry Pebriansyah</td>
-    </tr>
-    <tr>
-      <td>FEBE</td>
-      <td>FC009D5Y0583</td>
-      <td>Arrahman Akmal</td>
-    </tr>
-    <tr>
-      <td>FEBE</td>
-      <td>FC009D5Y0871</td>
-      <td>Mohamad Kemal Rasyidin</td>
-    </tr>
-    <tr>
-      <td>FEBE</td>
-      <td>FC009D5Y1707</td>
-      <td>Ahmad Zild Bilaldi</td>
     </tr>
   </table>
 </div>
