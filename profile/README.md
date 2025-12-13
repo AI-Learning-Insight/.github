@@ -62,14 +62,14 @@ Kamu dapat mengakses web dashboard EduInsight melalui link:
 ### Demo Account Credentials
 
 **Mentor Account**
-- Email: mentor@example.com  
+- Email: mentor@eduinsight.com
 - Password: Mentor@123  
 
 **Mentee Account**
-- Email 1 (Consistent Learner): mentee1@example.com
-- Email 2 (Fast Learner): mentee2@example.com
-- Email 3 (Reflective Learner): mentee3@example.com
-- Password: Mentor@123  
+- Email 1 (Consistent Learner): mentee1@eduinsight.com
+- Email 2 (Fast Learner): mentee2@eduinsight.com
+- Email 3 (Reflective Learner): mentee3@eduinsight.com
+- Password: Student@123  
 
 
 ## 🎥 Final Presentation
