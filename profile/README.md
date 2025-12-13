@@ -54,8 +54,23 @@ Platform ini dirancang untuk membantu:
 - **Mentor** mendapatkan pemahaman mendalam tentang karakteristik belajar mentee.
 - **Lembaga Pendidikan** mengoptimalkan metode pembelajaran berdasarkan data.
 
-## 💡 How to Access Website
-- **[EduInsight](https://capstone-ali-peach.vercel.app/)**
+## 💡 How to Access the Website
+
+Kamu dapat mengakses web dashboard EduInsight melalui link:  
+🔗 **[EduInsight](https://capstone-ali-peach.vercel.app/)**
+
+### Demo Account Credentials
+
+**Mentor Account**
+- Email: mentor@example.com  
+- Password: Mentor@123  
+
+**Mentee Account**
+- Email 1 (Consistent Learner): mentee1@example.com
+- Email 2 (Fast Learner): mentee2@example.com
+- Email 3 (Reflective Learner): mentee3@example.com
+- Password: Mentor@123  
+
 
 ## 🎥 Final Presentation
 - Demo project [EduInsight](https://youtu.be/PXtXPSoXyho)
