@@ -1,7 +1,7 @@
 <div align="center">
   <img src="../logo/EduInsight-logo.png" alt="EduInsight Logo" width="400" height="200">
 
-  <h3><b>Insight Cerdas, Belajar Optimal!</b></h3>
+  <h3><b>Your Learning, Your Way</b></h3>
 </div>
 
 ## 🔍 What's this ?
